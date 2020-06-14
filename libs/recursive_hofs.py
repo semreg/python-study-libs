@@ -21,3 +21,6 @@ if __name__ == '__main__':
     eggs = [1]
 
     print(rec_filter(lambda el: el % 2 == 0, spam))
+
+    
+   
